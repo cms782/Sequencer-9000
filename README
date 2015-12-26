@@ -1,0 +1,6 @@
+requirements:
+Qt5
+PyQt5
+SIP
+
+I would suggest using virtualenv to isolate your installation from your global environment.
